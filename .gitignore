@@ -1,0 +1,7 @@
+# File da ignorare nella Directory principale
+.DS_Store
+secrets.txt
+
+# File da ignorare nella subdirectory subDir
+subDir/secretsSub.txt
+subDir/.DS_Store
